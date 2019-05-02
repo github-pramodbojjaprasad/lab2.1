@@ -1,0 +1,68 @@
+Xsession: X session started for ubuntu at Thu May  2 04:31:53 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2870]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2871]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2863): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2863): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-10-83:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2886): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 2883: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2873): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2882): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3156:3156:0502/043304.100452:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3152:3152:0502/043304.100815:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+Created new window in existing browser session.
+[3010:3010:0502/043304.983444:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[3010:3114:0502/043307.177623:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043307.216582:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043307.250683:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043307.346071:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043307.358494:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043307.460519:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3050:3257:0502/043317.895179:ERROR:browser_gpu_channel_host_factory.cc(120)] Failed to launch GPU process.
+Created new window in existing browser session.
+[3010:3114:0502/043318.077523:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043318.103860:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043318.137109:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/043319.197965:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+
+(xfwm4:2873): xfwm4-WARNING **: output size (1812x684) and logical screen size (1920x969) do not match
+[3925:3964:0502/045234.564961:ERROR:browser_gpu_channel_host_factory.cc(120)] Failed to launch GPU process.
+Created new window in existing browser session.
+[3010:3114:0502/045234.772235:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045234.786058:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045234.845393:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045244.005458:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045252.464262:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045439.771280:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045439.775070:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045457.944401:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045506.866291:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045510.870557:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3010:0502/045511.128734:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 29
+[3010:3114:0502/045518.851825:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045522.655888:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045523.626520:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/045523.630700:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/051022.487578:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/051025.108735:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/051025.726046:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/055841.361266:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/055843.202554:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3010:0502/055843.712899:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 35
+[3010:3114:0502/055843.941324:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/055847.981335:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/055848.001628:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/055853.325215:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3010:3114:0502/055926.815970:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)

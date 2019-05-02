@@ -1,0 +1,12 @@
+[20190502-04:31:53] [CORE ] main: app started pid 2798(0x00000aee)
+[20190502-04:31:53] [INFO ] main: DISPLAY env var set to :10.0
+[20190502-04:31:53] [INFO ] main: using DISPLAY 10
+[20190502-04:31:53] [INFO ] channel_thread_loop: thread start
+[20190502-04:31:54] [INFO ] Socket 12: AF_UNIX connection received
+[20190502-04:31:54] [INFO ] send_init_response_message:
+[20190502-04:42:14] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20190502-04:44:57] [INFO ] Socket 12: AF_UNIX connection received
+[20190502-04:44:57] [INFO ] send_init_response_message:
+[20190502-04:45:31] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20190502-04:47:56] [INFO ] Socket 12: AF_UNIX connection received
+[20190502-04:47:56] [INFO ] send_init_response_message:
